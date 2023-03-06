@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Open Sans");
+body {
+  font-family: Lora;
+  background-color: #222831;
+}
+
+div {
+  border-style: bold;
+  color: white;
+  margin: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+#header, .footer {
+  background: #00ADB5;
+}
+
+.nav-item {
+  width: 100pt;
+  text-align: center;
+  font-size: 30;
+}
+
+img {
+  padding: 20;
+}
+
+.card-title, .card-text {
+  color: black;
+}
+
+.card-deck {
+  padding: 1%;
+}
+
+.btn {
+  text-align: left;
+}
+
+.btn-primary {
+  background-color: #00ADB5;
+  border-style: none;
+}
+
+.btn-primary:hover {
+  background-color: #00ADB5;
+  border-style: none;
+}
+
+.btn-primary:active {
+  background-color: #00ADB5;
+  border-style: none;
+}
+
+.btn-primary:visited {
+  background-color: #00ADB5;
+  border-style: none;
+}
+
+#article {
+  background: white;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  color: black;
+  font-family: "Open Sans", sans-serif;
+}
+
+label {
+  color: black;
+}
+
+.form-group {
+  padding-top: 10;
+}
+
+/*# sourceMappingURL=index.css.map */

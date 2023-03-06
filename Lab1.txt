@@ -1,0 +1,9 @@
+Changement de la responsivite entre la version cellulaire te ordinateur, maintenant la navbar collapse en bouton
+sur cellulaire
+
+les boutons de socials media reste l'un a cote de lautre sur les devices autres que medium
+
+ajouter bar de recherche et dropdown menu
+Drop down et bar de recherche fonctionnel sur version cellulaire
+
+Ajout des commentaires
